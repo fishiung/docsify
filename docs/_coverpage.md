@@ -1,5 +1,5 @@
-![](./img/2021-01-14-21-42-35.png)
+![](/images/2021-01-14-21-42-35.png)
 # Demo
 
 [GitHub](<https://github.com/fishiung/docsify>)
-[开始阅读](README.md)
+[开始阅读](/v5/README.md)
